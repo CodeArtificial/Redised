@@ -1,0 +1,2 @@
+# Redised
+Clone of Redis
